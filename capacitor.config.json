@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "newsy",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
